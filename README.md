@@ -1,0 +1,1 @@
+This project is for Predictive maintanence for AI systems at which service maintanence contracts should be exclusive to protect intellectual property and trade secrets. This is a demostration of predicting system failure based on hardware machine variables like temperature and torgue. 
